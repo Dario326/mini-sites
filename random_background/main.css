@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+}
+.button_container {
+    text-align: center;
+    margin:100px auto;
+}
+button {
+    background-color: aqua;
+    color: #fff;
+    font-size: 30px;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
